@@ -2,7 +2,9 @@ RENCANA MAGANG KEDUA
 
 - menjadi front end dev
   - belajar framework js
+    > Vue
 - menjadi back end dev
   - belajar framework php
+    > Laravel
 - menjadi fullstack dev
   - belajar kedua framework dari back end dan front end
