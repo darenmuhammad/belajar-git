@@ -1,0 +1,7 @@
+RENCANA MAGANG KEDUA
+
+- menjadi front end dev
+  - belajar framework js
+- menjadi back end dev
+  - belajar framework php
+- menjadi fullstack dev
