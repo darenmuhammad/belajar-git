@@ -3,6 +3,7 @@ RENCANA MAGANG KEDUA
 - menjadi front end dev
   - belajar framework js
     > Vue
+    > React
 - menjadi back end dev
   - belajar framework php
     > Laravel
