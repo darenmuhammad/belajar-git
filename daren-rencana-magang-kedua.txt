@@ -5,3 +5,4 @@ RENCANA MAGANG KEDUA
 - menjadi back end dev
   - belajar framework php
 - menjadi fullstack dev
+  - belajar kedua framework dari back end dan front end
